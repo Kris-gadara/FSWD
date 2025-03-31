@@ -1,0 +1,19 @@
+{
+    "name": "static-file-server",
+    "version": "1.0.0",
+    "description": "A simple HTTP server to serve static files like HTML, CSS, and images.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "nodejs",
+        "http-server",
+        "static-files"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "static-file-server": "file:"
+    }
+}

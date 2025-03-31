@@ -1,0 +1,94 @@
+
+OS Type: Windows_NT
+Total Memory: 8362713088 bytes
+Free Memory: 1158225920 bytes
+CPU Details: [
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 208578,
+      "nice": 0,
+      "sys": 226671,
+      "idle": 3309093,
+      "irq": 46156
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 153343,
+      "nice": 0,
+      "sys": 95921,
+      "idle": 3495046,
+      "irq": 6921
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 408437,
+      "nice": 0,
+      "sys": 185593,
+      "idle": 3150281,
+      "irq": 11781
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 187203,
+      "nice": 0,
+      "sys": 90187,
+      "idle": 3466921,
+      "irq": 4578
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 269218,
+      "nice": 0,
+      "sys": 164875,
+      "idle": 3310218,
+      "irq": 10171
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 158125,
+      "nice": 0,
+      "sys": 84750,
+      "idle": 3501437,
+      "irq": 4609
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 247281,
+      "nice": 0,
+      "sys": 138000,
+      "idle": 3359031,
+      "irq": 9609
+    }
+  },
+  {
+    "model": "11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz",
+    "speed": 3187,
+    "times": {
+      "user": 166421,
+      "nice": 0,
+      "sys": 91171,
+      "idle": 3486718,
+      "irq": 4984
+    }
+  }
+]

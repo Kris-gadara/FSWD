@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "system-utility",
+  "version": "1.0.0",
+  "main": "systemInfo.js",
+  "scripts": {
+    "start": "node systemInfo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "system-utility": "file:"
+  }
+}
